@@ -1,1 +1,5 @@
-- reference for starting from scratch: https://docs.github.com/en/pages 
+**reference**
+
+- start from scratch:https://docs.github.com/en/pages
+- https://openai.com/
+- mdbook / gitbook
